@@ -55,3 +55,7 @@ List of registers:
 ## Programming
 
 Programs can be written in `main.c`, executed in the VM and the native processor, and the execution time measured in seconds. Creating programs is done in bytecode.
+
+## Disassembler
+
+The repository also includes a disassembler in `bc_disassembler.c` to help visualize instructions written in bytecode
