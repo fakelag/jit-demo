@@ -58,4 +58,4 @@ Programs can be written in `main.c`, executed in the VM and the native processor
 
 ## Disassembler
 
-The repository also includes a disassembler in `bc_disassembler.c` to help visualize instructions written in bytecode
+The repository also includes a disassembler in `bc_disassembler.c` to help visualize instructions written in bytecode.
