@@ -3,7 +3,7 @@
 A small bytecode Just-In-Time compiler / binary translator with a custom assember library and a virtual machine. The purpose of this project is to demonstrate the orders of magnitude faster execution speed of JIT-applied code paths against traditional virtual machines.
 
 ## Images
-![terminal](https://raw.githubusercontent.com/fakelag/jit-demo/master/img/img0.png)
+![terminal](https://raw.githubusercontent.com/fakelag/jit-demo/master/img/img0.PNG)
 
 ## Languages
 * C
